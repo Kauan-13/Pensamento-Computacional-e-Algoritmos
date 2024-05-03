@@ -197,7 +197,7 @@ public class Main {
 //        if(contador == array1.length){
 //            System.out.println("Os arrays são iguais");
 //        }else{
-//            System.out.println("Os arrays são diferentes");
+//            System.out.println("Os arrays não são iguais");
 //        }
 
 //--------------------------------------------------------------------------------------------------------------------//
